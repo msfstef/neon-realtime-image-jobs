@@ -1,0 +1,5 @@
+.neon
+.env.local
+.env
+node_modules/
+dist/
